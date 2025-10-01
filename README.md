@@ -21,7 +21,7 @@ The LCD first shows a **welcome message** and then scrolls a **channel promotion
 
 ## ⚡ Circuit Diagram
 ![Circuit Diagram](LCD_with_i2c.jpg)  
-*(Replace `image.png` with your actual LCD wiring diagram)*  
+
 
 ---
 
